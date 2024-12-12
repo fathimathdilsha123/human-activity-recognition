@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/phone_activity/mlruns/0/1d763bc757724360a6f9f560df4af55e/artifacts
+end_time: 1734021467082
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 1d763bc757724360a6f9f560df4af55e
+run_name: Iteration 1
+run_uuid: 1d763bc757724360a6f9f560df4af55e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734021436207
+status: 3
+tags: []
+user_id: zoyaf
